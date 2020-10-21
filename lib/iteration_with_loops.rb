@@ -25,8 +25,7 @@ def join_nested_strings(src)
     all_strings << strings
     count += 1
   end
-  all_strings.join(' ')
-  p all_strings
+  p all_strings.join(' ')
 end
 
-join_nested_strings(mixed_data)
+# join_nested_strings(mixed_data)
