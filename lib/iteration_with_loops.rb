@@ -27,4 +27,4 @@ def join_nested_strings(src)
   p strings
 end
 
-join_nested_string(mixed_data)
+join_nested_strings(mixed_data)
