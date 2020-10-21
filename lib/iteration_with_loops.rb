@@ -24,4 +24,5 @@ def join_nested_strings(src)
     count += 1
   end
   strings.join(' ')
+  p strings
 end
