@@ -26,3 +26,5 @@ def join_nested_strings(src)
   strings.join(' ')
   p strings
 end
+
+join_nested_string(mixed_data)
